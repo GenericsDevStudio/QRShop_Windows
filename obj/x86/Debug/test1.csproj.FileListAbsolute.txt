@@ -1,0 +1,11 @@
+/Users/datanton/Projects/test1/test1/bin/Debug/test1.exe
+/Users/datanton/Projects/test1/test1/bin/Debug/test1.pdb
+/Users/datanton/Projects/test1/test1/obj/x86/Debug/test1.csprojAssemblyReference.cache
+/Users/datanton/Projects/test1/test1/obj/x86/Debug/test1.csproj.CoreCompileInputs.cache
+/Users/datanton/Projects/test1/test1/obj/x86/Debug/test1.exe
+/Users/datanton/Projects/test1/test1/obj/x86/Debug/test1.pdb
+/Users/datanton/Projects/test1/test1/bin/Debug/libstetic.dll
+/Users/datanton/Projects/test1/test1/bin/Debug/libstetic.pdb
+/Users/datanton/Projects/test1/test1/bin/Debug/libstetic.xml
+/Users/datanton/Projects/test1/test1/bin/Debug/libstetic.dll.config
+/Users/datanton/Projects/test1/test1/obj/x86/Debug/test1.csproj.CopyComplete
